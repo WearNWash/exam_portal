@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb://localhost:27017/ecell"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "mail-credentials" : {
+        "userid" :"ravitejachatti@gmail.com",
+        "password" : "cyyx cwim fydp tvps"
+    }
+}
