@@ -98,3 +98,5 @@ app.listen(PORT,(err)=>{
     }
     console.log(`Server Started. Server listening to port ${PORT}`);
 });
+
+// tool.createadmin()
